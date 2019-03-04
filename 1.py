@@ -1,2 +1,3 @@
 print("hello git");
-print("hello world")
+print("hello world");
+a = 10;
